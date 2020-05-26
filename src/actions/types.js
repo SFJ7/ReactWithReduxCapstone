@@ -1,0 +1,2 @@
+export const CREATE_PERSONA = 'CREATE_PERSONA';
+export const CREATE_CJM = 'CREATE_CJM';
